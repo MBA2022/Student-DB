@@ -16,8 +16,8 @@ virtual environment, and activate it.
 
 ```bash
 python -m venv env
+source env/bin/activate
 ```
-`source env/bin/activate`
 
 2. Clone this repository.
 
