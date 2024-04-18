@@ -11,7 +11,7 @@ This Python script provides a simple command-line interface for managing a stude
 - pandas library (pip install pandas)
 - A MongoDB Atlas account and database (refer to MongoDB documentation for setup instructions)
 ## Installation:
-1.PyMongo has a set of packages for Python MongoDB interaction. For the following tutorial, start by creating a 
+1. PyMongo has a set of packages for Python MongoDB interaction. For the following tutorial, start by creating a 
 virtual environment, and activate it.
 ```bash
 python -m venv env
