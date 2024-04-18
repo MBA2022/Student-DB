@@ -50,7 +50,7 @@ Enter the name of the student: John Doe
         name   major      university        department        gpa
       John Doe  CS     Any University  Information Systems  3.800000
 ```
-and the data will be as a collection on MongoDB server
+**The data will be as a collection on MongoDB server**
 ## Contributing:
 
 Feel free to submit pull requests with improvements or bug fixes.
