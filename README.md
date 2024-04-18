@@ -11,12 +11,18 @@ This Python script provides a simple command-line interface for managing a stude
 - pandas library (pip install pandas)
 - A MongoDB Atlas account and database (refer to MongoDB documentation for setup instructions)
 ## Installation:
-1. Clone this repository.
-2. Install the required libraries using .
+1.PyMongo has a set of packages for Python MongoDB interaction. For the following tutorial, start by creating a 
+virtual environment, and activate it.
+```bash
+python -m venv env
+```
+`source env/bin/activate`
+2. Clone this repository.
+3. Install the required libraries using .
 ```bash
 pip install pymongo python-dateutil pandas
 ```
-3. Replace `mongodb+srv://<username>:<password>@cluster0.mongodb.net/` in get_database() with your actual MongoDB Atlas connection string.
+4. Replace `mongodb+srv://<username>:<password>@cluster0.mongodb.net/` in get_database() with your actual MongoDB Atlas connection string.
 
 ## Usage:
 Run the script using `python student_database.py`.
