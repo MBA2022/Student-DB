@@ -4,7 +4,7 @@ from pandas import DataFrame
 def get_database():
  
    # Provide the mongodb atlas url to connect python to mongodb using pymongo
-   CONNECTION_STRING = "mongodb+srv://MBA:0159753159753@cluster0.jthrfng.mongodb.net/"
+   CONNECTION_STRING = "mongodb+srv://<username>:<password>@cluster0.jthrfng.mongodb.net/"
  
    # Create a connection using MongoClient. You can import MongoClient or use pymongo.MongoClient
    client = MongoClient(CONNECTION_STRING)
