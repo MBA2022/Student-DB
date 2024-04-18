@@ -13,12 +13,16 @@ This Python script provides a simple command-line interface for managing a stude
 ## Installation:
 1. PyMongo has a set of packages for Python MongoDB interaction. For the following tutorial, start by creating a 
 virtual environment, and activate it.
+
 ```bash
 python -m venv env
 ```
 `source env/bin/activate`
+
 2. Clone this repository.
+
 3. Install the required libraries using .
+
 ```bash
 pip install pymongo python-dateutil pandas
 ```
