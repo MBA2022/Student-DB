@@ -15,8 +15,7 @@ This Python script provides a simple command-line interface for managing a stude
 virtual environment, and activate it.
 
 ```bash
-python -m venv env
-source env/bin/activate
+python -m venv env source env/bin/activate
 ```
 
 2. Clone this repository.
