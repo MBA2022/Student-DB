@@ -6,9 +6,9 @@ This Python script provides a simple command-line interface for managing a stude
 
 
 - Python 3.x
-- pymongo library (pip install pymongo)
-- dateutil library (pip install python-dateutil)
-- pandas library (pip install pandas)
+- pymongo library `(pip install pymongo)`
+- dateutil library `(pip install python-dateutil)`
+- pandas library `(pip install pandas)`
 - A MongoDB Atlas account and database (refer to MongoDB documentation for setup instructions)
 ## Installation:
 1. PyMongo has a set of packages for Python MongoDB interaction. For the following tutorial, start by creating a 
